@@ -24,7 +24,7 @@ import javax.imageio.ImageIO;
  * @author Kai
  */
 public class FSM {
-    private int hp = 1; // 14;
+    private int hp =  12;
     private  BufferedImage sheet;
     private BufferedImage frames[];
     private Image noodlepillars[] = new Image[4];
